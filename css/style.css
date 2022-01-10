@@ -1,0 +1,19 @@
+
+body{
+	color: #F8B195;
+	background-color: #355C7D;
+	text-align: center;
+}
+.one{
+	color: red;
+	font-size: 14;
+}
+.two{
+	color: #F67280;
+	font-size: 50px;
+	font-family: Arial;
+}
+p{
+	color: #F8B195;
+	font-size: 20px;
+}
